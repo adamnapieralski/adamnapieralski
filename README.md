@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Adam here - and welcome to my GitHub.
 
+- 🌱 I’m currently learning Node.js and React, also getting more acquainted with Docker & Kubernetes.
+- 🔭 I’m currently working on numerous uni projects, beginning of master's thesis and timesheets web app in work.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/adamnapieralski/) and check out my portfolio [website](http://adamnapieralski.github.io/).
+
+<!--
+### 🎓 <br/>
+I'm Computer Science student, currently pursuing Master's degree. I've got my Bachelor in Automation Control & Robotics.
+### 🌱
+-->
 <!--
 **adamnapieralski/adamnapieralski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
