@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Adam here - and welcome to my GitHub.
 
-- 🌱 I’m currently learning Node.js and React, also getting more acquainted with Docker & Kubernetes.
-- 🔭 I’m currently working on numerous uni projects, beginning of master's thesis and timesheets web app in work.
+- 🧬 I’m currently working on Master's thesis regarding DNA sequence-to-sequence processing with DL models (using tensorflow.keras).
+- 🔭 Also other numerous uni and work projects are on my table.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/adamnapieralski/) and check out my portfolio [website](http://adamnapieralski.github.io/).
 
 <!--
